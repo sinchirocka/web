@@ -1,5 +1,5 @@
 alert("Task 1")
-var name ="Anastasiia Hrysh";
+var name ="Vintoniak Alex";
 alert(name);
 
 alert("Task 2")
